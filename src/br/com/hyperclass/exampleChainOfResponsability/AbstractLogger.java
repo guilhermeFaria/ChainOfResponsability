@@ -1,7 +1,7 @@
 package br.com.hyperclass.exampleChainOfResponsability;
 
 public abstract class AbstractLogger {
-	//sadsa
+	//
 	public static int INFO = 1;
 	public static int DEBUG = 2;
 	public static int ERROR = 3;
